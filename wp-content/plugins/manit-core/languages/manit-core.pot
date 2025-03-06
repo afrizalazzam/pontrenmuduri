@@ -1,0 +1,4298 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2024-04-04 12:27+0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: elementor/em-setup.php:116
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: elementor/em-setup.php:117 elementor/em-setup.php:132
+#: elementor/em-setup.php:148
+msgid "Manit Core"
+msgstr ""
+
+#: elementor/em-setup.php:118 elementor/em-setup.php:133
+msgid "Elementor"
+msgstr ""
+
+#: elementor/em-setup.php:131 elementor/em-setup.php:147
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: elementor/em-setup.php:149
+msgid "PHP"
+msgstr ""
+
+#: elementor/em-setup.php:174
+msgid "Manit Theme : By wpoceanss"
+msgstr ""
+
+#: elementor/lib/lib.php:51
+msgid "No contact forms found"
+msgstr ""
+
+#: elementor/lib/shortcode.class.php:82 elementor/lib/shortcode.class.php:90
+msgid "Add Shortcode"
+msgstr ""
+
+#: elementor/lib/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: elementor/lib/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:261
+msgid "Wand"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:262
+msgid "Volume"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:263
+msgid "User"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:264
+msgid "Unlock"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:265
+msgid "Unlink"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:266
+msgid "Trash"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:267
+msgid "Thought"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:268
+msgid "Target"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:269
+msgid "Tag"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:270
+msgid "Tablet"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:271
+msgid "Star"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:272
+msgid "Spray"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:273
+msgid "Shopping Cart Full"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:274 elementor/widgets/site-header.php:887
+msgid "Shopping Cart"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:275
+msgid "Settings"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:276 elementor/widgets/site-header.php:241
+#: elementor/widgets/site-search.php:24
+msgid "Search"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:277
+msgid "Zoom In"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:278
+msgid "Zoom Out"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:279
+msgid "Cut"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:280
+msgid "Ruler"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:281
+msgid "Ruler Pencil"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:282
+msgid "Ruler alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:283
+msgid "Bookmark"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:284
+msgid "Bookmark Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:285
+msgid "Reload"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:286
+msgid "Plus"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:287
+msgid "Pin"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:288
+msgid "Pencil"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:289
+msgid "Pencil Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:290
+msgid "Paint Roller"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:291
+msgid "Paint Bucket"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:292
+msgid "Na"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:293
+msgid "Mobile"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:294
+msgid "Minus"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:295
+msgid "Medall"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:296
+msgid "Medall Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:297
+msgid "Marker"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:298
+msgid "Marker Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:299
+msgid "Arrow Up"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:300
+msgid "Arrow Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:301
+msgid "Arrow Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:302
+msgid "Arrow Down"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:303
+msgid "Lock"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:304
+msgid "Location Arrow"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:305 elementor/widgets/site-client.php:112
+#: include/custom-shortcodes/theme-shortcodes.php:54
+#: include/custom-shortcodes/theme-shortcodes.php:275
+#: include/custom-shortcodes/theme-shortcodes.php:326
+#: include/custom-shortcodes/theme-shortcodes.php:375
+#: include/custom-shortcodes/theme-shortcodes.php:420
+#: include/custom-shortcodes/theme-shortcodes.php:600
+#: include/custom-shortcodes/theme-shortcodes.php:673
+msgid "Link"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:306
+msgid "Layout"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:307
+msgid "Layers"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:308
+msgid "Layers Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:309
+msgid "Key"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:310
+msgid "Import"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:311 elementor/widgets/site-blog.php:82
+#: elementor/widgets/site-team.php:118 elementor/widgets/site-teams.php:140
+#: include/custom-post-type.php:462
+#: include/custom-shortcodes/theme-shortcodes.php:367
+msgid "Image"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:312
+msgid "Heart"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:313
+msgid "Heart Broken"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:314
+msgid "Hand Stop"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:315
+msgid "Hand Open"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:316
+msgid "Hand Drag"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:317
+msgid "Folder"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:318
+msgid "Flag"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:319
+msgid "Flag Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:320
+msgid "Flag Alt 2"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:321
+msgid "Eye"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:322
+msgid "Export"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:323
+msgid "Exchange Vertical"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:324
+msgid "Desktop"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:325
+msgid "Cup"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:326
+msgid "Crown"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:327
+msgid "Comments"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:328
+msgid "Comment"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:329
+msgid "Comment Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:330
+msgid "Close"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:331
+msgid "Clip"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:332
+msgid "Angle Up"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:333
+msgid "Angle Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:334
+msgid "Angle Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:335
+msgid "Angle Down"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:336
+msgid "Check"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:337
+msgid "Check Box"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:338
+msgid "Camera"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:339
+msgid "Announcement"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:340
+msgid "Brush"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:341
+msgid "Briefcase"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:342
+msgid "Bolt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:343
+msgid "Bolt Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:344
+msgid "Blackboard"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:345
+msgid "Bag"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:346
+msgid "Move"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:347
+msgid "Arrows Vertical"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:348
+msgid "Arrows Horizontal"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:349
+msgid "Fullscreen"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:350
+msgid "Arrow Top Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:351
+msgid "Arrow Top Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:352
+msgid "Arrow Circle Up"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:353
+msgid "Arrow Circle Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:354
+msgid "Arrow Circle Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:355
+msgid "Arrow Circle Down"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:356
+msgid "Angle Double Up"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:357
+msgid "Angle Double Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:358
+msgid "Angle Double Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:359
+msgid "Angle Double Down"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:360
+msgid "Zip"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:361
+msgid "World"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:362
+msgid "Wheelchair"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:363
+msgid "View List"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:364
+msgid "View List Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:365
+msgid "View Grid"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:366
+msgid "Uppercase"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:367
+msgid "Upload"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:368
+msgid "Underline"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:369
+msgid "Truck"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:370
+msgid "Timer"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:371
+msgid "Ticket"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:372
+msgid "Thumb Up"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:373
+msgid "Thumb Down"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:374
+msgid "Text"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:375
+msgid "Stats Up"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:376
+msgid "Stats Down"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:377
+msgid "Split V"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:378
+msgid "Split-h"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:379
+msgid "Smallcap"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:380
+msgid "Shine"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:381
+msgid "Shift Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:382
+msgid "Shift Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:383
+msgid "Shield"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:384
+msgid "Notepad"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:385
+msgid "Server"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:386
+msgid "Quote Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:387
+msgid "Quote Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:388
+msgid "Pulse"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:389
+msgid "Printer"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:390
+msgid "Power Off"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:391
+msgid "Plug"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:392
+msgid "Pie Chart"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:393
+msgid "Paragraph"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:394
+msgid "Panel"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:395
+msgid "Package"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:396
+msgid "Music"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:397
+msgid "Music Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:398
+msgid "Mouse"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:399
+msgid "Mouse Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:400
+msgid "Money"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:401
+msgid "Microphone"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:402
+#: elementor/widgets/site-footer-navmenu.php:97
+#: elementor/widgets/site-header.php:121 elementor/widgets/site-navmenu.php:97
+msgid "Menu"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:403
+msgid "Menu Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:404
+msgid "Map"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:405
+msgid "Map Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:406
+msgid "Loop"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:407
+msgid "Location Pin"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:408
+msgid "List"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:409
+msgid "Light Bulb"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:410
+msgid "Italic"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:411
+#: elementor/widgets/site-project-info.php:116
+#: elementor/widgets/site-team-info.php:158
+msgid "Info"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:412
+msgid "Infinite"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:413
+msgid "Badge"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:414
+msgid "Hummer"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:415
+msgid "Home"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:416
+msgid "Help"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:417
+msgid "Headphone"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:418
+msgid "Harddrives"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:419
+msgid "Harddrive"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:420
+msgid "Gift"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:421
+msgid "Game"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:422
+msgid "Filter"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:423
+msgid "Files"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:424
+msgid "File"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:425
+msgid "Eraser"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:426
+msgid "Envelope"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:427
+msgid "Download"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:428
+msgid "Direction"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:429
+msgid "Direction Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:430
+msgid "Dashboard"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:431
+msgid "Control Stop"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:432
+msgid "Control Shuffle"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:433
+msgid "Control Play"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:434
+msgid "Control Pause"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:435
+msgid "Control Forward"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:436
+msgid "Control Backward"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:437
+msgid "Cloud"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:438
+msgid "Cloud-up"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:439
+msgid "Cloud Down"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:440
+msgid "Clipboard"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:441
+msgid "Car"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:442
+msgid "Calendar"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:443
+msgid "Book"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:444
+msgid "Bell"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:445
+msgid "Basketball"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:446
+msgid "Bar Chart"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:447
+msgid "Bar Chart Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:448
+msgid "Back Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:449
+msgid "Back Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:450
+msgid "Arrows Corner"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:451
+msgid "Archive"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:452
+msgid "Anchor"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:453
+msgid "Align Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:454
+msgid "Align Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:455
+msgid "Align Justify"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:456
+msgid "Align Center"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:457
+msgid "Alert"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:458
+msgid "Alarm Clock"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:459
+msgid "Agenda"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:460
+msgid "Write"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:461
+msgid "Window"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:462
+msgid "Widgetized"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:463
+msgid "Widget"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:464
+msgid "Widget Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:465
+msgid "Wallet"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:466
+msgid "Video Clapper"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:467
+msgid "Video Camera"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:468
+msgid "Vector"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:469
+msgid "Themify Logo"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:470
+msgid "Themify Favicon"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:471
+msgid "Themify Favicon Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:472
+msgid "Support"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:473
+msgid "Stamp"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:474
+msgid "Split V Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:475
+msgid "Slice"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:476
+msgid "Shortcode"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:477
+msgid "Shift Right Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:478
+msgid "Shift Left Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:479
+msgid "Ruler Alt 2"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:480
+msgid "Receipt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:481
+msgid "Pin2"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:482
+msgid "Pin Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:483
+msgid "Pencil Alt2"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:484
+msgid "Palette"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:485
+msgid "More"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:486
+msgid "More Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:487
+msgid "Microphone Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:488
+msgid "Magnet"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:489
+msgid "Line Double"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:490
+msgid "Line Dotted"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:491
+msgid "Line Dashed"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:492
+msgid "Layout Width Full"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:493
+msgid "Layout Width Default"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:494
+msgid "Layout Width Default Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:495
+msgid "Layout Tab"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:496
+msgid "Layout Tab Window"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:497
+msgid "Layout Tab V"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:498
+msgid "Layout Tab Min"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:499
+msgid "Layout Slider"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:500
+msgid "Layout Slider Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:501
+msgid "Layout Sidebar Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:502
+msgid "Layout Sidebar None"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:503
+msgid "Layout Sidebar Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:504
+msgid "Layout Placeholder"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:505
+msgid "Layout Menu"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:506
+msgid "layout Menu V"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:507
+msgid "Layout Menu Separated"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:508
+msgid "Layout Menu Full"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:509
+msgid "Layout Media Right Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:510
+msgid "Layout Media Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:511
+msgid "Layout Media Overlay"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:512
+msgid "Layout Media Overlay Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:513
+msgid "Layout Media Overlay Alt 2"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:514
+msgid "Layout Media Left Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:515
+msgid "Layout Media Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:516
+msgid "Layout Media Center Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:517
+msgid "Layout Media Center"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:518
+msgid "Layout List Thumb"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:519
+msgid "Layout List Thumb Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:520
+msgid "Layout List Post"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:521
+msgid "Layout List Large Image"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:522
+msgid "Layout Line Solid"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:523
+msgid "Layout Grid4"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:524
+msgid "Layout Grid3"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:525
+msgid "Layout Grid2"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:526
+msgid "Layout Grid2 Thumb"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:527
+msgid "Layout Cta Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:528
+msgid "Layout Cta Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:529
+msgid "Layout Cta Center"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:530
+msgid "Layout Cta Btn Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:531
+msgid "Layout Cta Btn Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:532
+msgid "Layout Column4"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:533
+msgid "Layout Column3"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:534
+msgid "Layout Column2"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:535
+msgid "Layout Accordion Separated"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:536
+msgid "Layout Accordion Merged"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:537
+msgid "Layout Accordion List"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:538
+msgid "Ink Pen"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:539
+msgid "Info Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:540
+msgid "Help Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:541
+msgid "Headphone Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:542
+msgid "Hand Point Up"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:543
+msgid "Hand Point Right"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:544
+msgid "Hand Point Left"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:545
+msgid "Hand Point Down"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:546 elementor/widgets/site-gallery.php:27
+#: elementor/widgets/site-gallery.php:97
+msgid "Gallery"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:547
+msgid "Face Smile"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:548
+msgid "Face Sad"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:549
+msgid "Credit Card"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:550
+msgid "Control Skip Forward"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:551
+msgid "Control Record"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:552
+msgid "Control Eject"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:553
+msgid "Comments Smiley"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:554
+msgid "Brush Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:555
+msgid "Youtube"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:556
+msgid "Vimeo"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:557
+msgid "Twitter"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:558
+msgid "Time"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:559
+msgid "Tumblr"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:560
+msgid "Skype"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:561 include/theme-functions.php:110
+msgid "Share"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:562
+msgid "Share Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:563
+msgid "Rocket"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:564
+msgid "Pinterest"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:565
+msgid "New Window"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:566
+msgid "Microsoft"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:567
+msgid "List Ol"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:568
+msgid "Linkedin"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:569
+msgid "Layout Sidebar-2"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:570
+msgid "Layout Grid4 Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:571
+msgid "Layout Grid3 Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:572
+msgid "Layout Grid2 Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:573
+msgid "Layout Column4 Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:574
+msgid "Layout Column3 Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:575
+msgid "Layout Column2 Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:576
+msgid "Instagram"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:577
+msgid "Google"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:578
+msgid "Github"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:579
+msgid "Flickr"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:580
+msgid "Facebook"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:581
+msgid "Dropbox"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:582
+msgid "Dribbble"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:583
+msgid "Apple"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:584
+msgid "Android"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:585
+msgid "Save"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:586
+msgid "Save Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:587
+msgid "Yahoo"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:588
+msgid "Wordpress"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:589
+msgid "Vimeo Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:590
+msgid "Twitter Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:591
+msgid "Tumblr Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:592
+msgid "Trello"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:593
+msgid "Stack Overflow"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:594
+msgid "Soundcloud"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:595
+msgid "Sharethis"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:596
+msgid "Sharethis Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:597
+msgid "Reddit"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:598
+msgid "Pinterest Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:599
+msgid "Microsoft Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:600
+msgid "Linux"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:601
+msgid "Jsfiddle"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:602
+msgid "Joomla"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:603
+msgid "Html5"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:604
+msgid "Flickr Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:605
+msgid "Email"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:606
+msgid "Drupal"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:607
+msgid "Dropbox Alt"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:608
+msgid "Css3"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:609
+msgid "Rss"
+msgstr ""
+
+#: elementor/lib/fields/icons.php:610
+msgid "Rss-alt"
+msgstr ""
+
+#: elementor/lib/icons-manager/icons-manager.php:15
+msgid "Manit Icons"
+msgstr ""
+
+#: elementor/widgets/site-about.php:27
+msgid "About"
+msgstr ""
+
+#: elementor/widgets/site-about.php:65
+msgid "About Options"
+msgstr ""
+
+#: elementor/widgets/site-about.php:71
+msgid "About Style"
+msgstr ""
+
+#: elementor/widgets/site-about.php:74 elementor/widgets/site-button.php:69
+#: elementor/widgets/site-causes.php:79 elementor/widgets/site-client.php:67
+#: elementor/widgets/site-contact-form.php:75
+#: elementor/widgets/site-cta.php:69 elementor/widgets/site-feature.php:74
+#: elementor/widgets/site-header.php:107 elementor/widgets/site-hero.php:74
+#: elementor/widgets/site-prayer-time.php:67
+#: elementor/widgets/site-project.php:86 elementor/widgets/site-service.php:86
+#: elementor/widgets/site-tesimonial.php:73
+#: elementor/widgets/site-tesimonial.php:95
+#: elementor/widgets/site-title.php:75
+#: include/custom-shortcodes/theme-shortcodes.php:508
+msgid "Style One"
+msgstr ""
+
+#: elementor/widgets/site-about.php:75 elementor/widgets/site-causes.php:80
+#: elementor/widgets/site-contact-form.php:76
+#: elementor/widgets/site-cta.php:70 elementor/widgets/site-feature.php:75
+#: elementor/widgets/site-hero.php:75
+#: elementor/widgets/site-prayer-time.php:68
+#: elementor/widgets/site-project.php:87 elementor/widgets/site-service.php:87
+#: elementor/widgets/site-tesimonial.php:74
+#: elementor/widgets/site-tesimonial.php:96
+#: elementor/widgets/site-title.php:76
+msgid "Style two"
+msgstr ""
+
+#: elementor/widgets/site-about.php:78 elementor/widgets/site-cta.php:73
+#: elementor/widgets/site-tesimonial.php:99
+#: elementor/widgets/site-tesimonial.php:226
+#: elementor/widgets/site-title.php:79
+msgid "Select your about style."
+msgstr ""
+
+#: elementor/widgets/site-about.php:85
+msgid "About Image"
+msgstr ""
+
+#: elementor/widgets/site-about.php:91 elementor/widgets/site-about.php:106
+#: elementor/widgets/site-brand-logo.php:72
+#: elementor/widgets/site-causes.php:99 elementor/widgets/site-causes.php:114
+#: elementor/widgets/site-cta.php:95 elementor/widgets/site-cta.php:139
+#: elementor/widgets/site-cta.php:154 elementor/widgets/site-cta.php:169
+#: elementor/widgets/site-header.php:150 elementor/widgets/site-header.php:193
+#: elementor/widgets/site-hero.php:90 elementor/widgets/site-hero.php:200
+#: elementor/widgets/site-project.php:161 elementor/widgets/site-slider.php:91
+#: elementor/widgets/site-team-info.php:91 elementor/widgets/site-team.php:92
+msgid "Set your image."
+msgstr ""
+
+#: elementor/widgets/site-about.php:97
+msgid "About Image 2"
+msgstr ""
+
+#: elementor/widgets/site-about.php:112
+#: elementor/widgets/site-contactinfo.php:65
+#: elementor/widgets/site-feature.php:85
+#: elementor/widgets/site-gallery.php:131
+#: elementor/widgets/site-project.php:167 elementor/widgets/site-search.php:66
+#: elementor/widgets/site-search.php:82
+#: elementor/widgets/site-service-feature.php:73
+#: elementor/widgets/site-service-feature.php:123
+#: elementor/widgets/site-team.php:223 elementor/widgets/site-teams.php:245
+#: include/custom-shortcodes/theme-shortcodes.php:39
+#: include/custom-shortcodes/theme-shortcodes.php:408
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/site-about.php:126
+msgid "Award Title"
+msgstr ""
+
+#: elementor/widgets/site-about.php:128
+msgid "Award Winning"
+msgstr ""
+
+#: elementor/widgets/site-about.php:129
+msgid "Sub Type Award Title text here"
+msgstr ""
+
+#: elementor/widgets/site-about.php:139
+msgid "Number Title"
+msgstr ""
+
+#: elementor/widgets/site-about.php:141
+msgid "Call Us:"
+msgstr ""
+
+#: elementor/widgets/site-about.php:142
+msgid "Sub Type about Number title here"
+msgstr ""
+
+#: elementor/widgets/site-about.php:153 elementor/widgets/site-cta.php:79
+#: elementor/widgets/site-team.php:76 elementor/widgets/site-team.php:78
+#: elementor/widgets/site-tesimonial.php:105
+#: elementor/widgets/site-tesimonial.php:110
+#: elementor/widgets/site-title.php:85 elementor/widgets/site-title.php:90
+msgid "Sub Title Text"
+msgstr ""
+
+#: elementor/widgets/site-about.php:155
+msgid "ABOUT COMPANY"
+msgstr ""
+
+#: elementor/widgets/site-about.php:156 elementor/widgets/site-about.php:166
+msgid "Sub Type title text here"
+msgstr ""
+
+#: elementor/widgets/site-about.php:163
+#: elementor/widgets/site-accordion.php:83
+#: elementor/widgets/site-accordion.php:85
+#: elementor/widgets/site-address.php:75 elementor/widgets/site-client.php:77
+#: elementor/widgets/site-client.php:82 elementor/widgets/site-client.php:91
+#: elementor/widgets/site-client.php:93
+#: elementor/widgets/site-contactinfo.php:76 elementor/widgets/site-cta.php:81
+#: elementor/widgets/site-cta.php:101 elementor/widgets/site-cta.php:103
+#: elementor/widgets/site-feature.php:96 elementor/widgets/site-funfact.php:72
+#: elementor/widgets/site-funfact.php:74 elementor/widgets/site-hero.php:106
+#: elementor/widgets/site-prayer-time.php:79
+#: elementor/widgets/site-project-info.php:66
+#: elementor/widgets/site-project-info.php:68
+#: elementor/widgets/site-project-info.php:77
+#: elementor/widgets/site-project-info.php:79
+#: elementor/widgets/site-service-feature.php:84
+#: elementor/widgets/site-service-feature.php:86
+#: elementor/widgets/site-slider.php:107 elementor/widgets/site-tabs.php:76
+#: elementor/widgets/site-tabs.php:78 elementor/widgets/site-team-info.php:75
+#: elementor/widgets/site-team-info.php:77
+#: elementor/widgets/site-team-info.php:98
+#: elementor/widgets/site-team-info.php:100
+#: elementor/widgets/site-team-info.php:119
+#: elementor/widgets/site-team-info.php:121 elementor/widgets/site-team.php:66
+#: elementor/widgets/site-team.php:68
+#: elementor/widgets/site-tesimonial.php:118
+#: elementor/widgets/site-tesimonial.php:120
+#: elementor/widgets/site-tesimonial.php:177
+#: elementor/widgets/site-title.php:98 elementor/widgets/site-title.php:100
+msgid "Title Text"
+msgstr ""
+
+#: elementor/widgets/site-about.php:165
+msgid "Our approach ensures flexibility, adaptability, & rapid response."
+msgstr ""
+
+#: elementor/widgets/site-about.php:173 elementor/widgets/site-about.php:487
+#: elementor/widgets/site-contact-form.php:95
+#: elementor/widgets/site-contact-form.php:208
+#: elementor/widgets/site-contactinfo.php:86
+#: elementor/widgets/site-contactinfo.php:206
+#: elementor/widgets/site-feature.php:272 elementor/widgets/site-hero.php:116
+#: elementor/widgets/site-hero.php:359
+#: elementor/widgets/site-project-info.php:87
+#: elementor/widgets/site-project-info.php:213
+#: elementor/widgets/site-service-feature.php:94
+#: elementor/widgets/site-service-feature.php:184
+#: elementor/widgets/site-service.php:328
+#: elementor/widgets/site-slider.php:117 elementor/widgets/site-slider.php:290
+#: elementor/widgets/site-slider.php:467
+#: elementor/widgets/site-team-info.php:129
+#: elementor/widgets/site-team-info.php:255
+#: elementor/widgets/site-tesimonial.php:343
+#: elementor/widgets/site-title.php:239
+#: include/custom-shortcodes/theme-shortcodes.php:546
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/site-about.php:174
+#: elementor/widgets/site-contactinfo.php:87
+#: elementor/widgets/site-hero.php:117
+#: elementor/widgets/site-project-info.php:88
+#: elementor/widgets/site-service-feature.php:95
+#: elementor/widgets/site-slider.php:118
+#: elementor/widgets/site-team-info.php:130
+msgid "your content text"
+msgstr ""
+
+#: elementor/widgets/site-about.php:175
+#: elementor/widgets/site-contact-form.php:99
+#: elementor/widgets/site-contactinfo.php:88
+#: elementor/widgets/site-hero.php:118
+#: elementor/widgets/site-project-info.php:89
+#: elementor/widgets/site-service-feature.php:96
+#: elementor/widgets/site-slider.php:119
+#: elementor/widgets/site-team-info.php:131
+msgid "Type your content here"
+msgstr ""
+
+#: elementor/widgets/site-about.php:184
+msgid "Info Name Text"
+msgstr ""
+
+#: elementor/widgets/site-about.php:186
+msgid "Annette Black"
+msgstr ""
+
+#: elementor/widgets/site-about.php:187
+msgid "Sub Type Info Name text here"
+msgstr ""
+
+#: elementor/widgets/site-about.php:194
+msgid "Info Title Text"
+msgstr ""
+
+#: elementor/widgets/site-about.php:196
+msgid "CEO & Founder of Manit"
+msgstr ""
+
+#: elementor/widgets/site-about.php:197
+msgid "Sub Type Info title text here"
+msgstr ""
+
+#: elementor/widgets/site-about.php:205
+msgid "Sign Image"
+msgstr ""
+
+#: elementor/widgets/site-about.php:211
+msgid "Set your Sign."
+msgstr ""
+
+#: elementor/widgets/site-about.php:221
+msgid "About Image Style"
+msgstr ""
+
+#: elementor/widgets/site-about.php:228
+msgid "Image Border Radius"
+msgstr ""
+
+#: elementor/widgets/site-about.php:242
+msgid "Image1 Border Radius"
+msgstr ""
+
+#: elementor/widgets/site-about.php:256
+msgid "Image2 Border Radius"
+msgstr ""
+
+#: elementor/widgets/site-about.php:273
+msgid "Award Box Style"
+msgstr ""
+
+#: elementor/widgets/site-about.php:283
+#: elementor/widgets/site-contact-form.php:126
+#: elementor/widgets/site-service.php:188
+#: elementor/widgets/site-tesimonial.php:542
+msgid "Bg Color"
+msgstr ""
+
+#: elementor/widgets/site-about.php:293 elementor/widgets/site-about.php:354
+#: elementor/widgets/site-about.php:396 elementor/widgets/site-about.php:551
+#: elementor/widgets/site-about.php:590 elementor/widgets/site-blog.php:314
+#: elementor/widgets/site-blog.php:383 elementor/widgets/site-button.php:162
+#: elementor/widgets/site-client.php:153
+#: elementor/widgets/site-contact-form.php:136
+#: elementor/widgets/site-contact-form.php:193
+#: elementor/widgets/site-contact-form.php:232
+#: elementor/widgets/site-cta.php:230 elementor/widgets/site-cta.php:269
+#: elementor/widgets/site-cta.php:291 elementor/widgets/site-feature.php:297
+#: elementor/widgets/site-funfact.php:177
+#: elementor/widgets/site-header.php:703 elementor/widgets/site-hero.php:295
+#: elementor/widgets/site-hero.php:345 elementor/widgets/site-hero.php:441
+#: elementor/widgets/site-prayer-time.php:135
+#: elementor/widgets/site-service.php:198
+#: elementor/widgets/site-slider.php:403 elementor/widgets/site-slider.php:453
+#: elementor/widgets/site-slider.php:549
+#: elementor/widgets/site-tesimonial.php:409
+#: elementor/widgets/site-tesimonial.php:552
+msgid "Padding"
+msgstr ""
+
+#: elementor/widgets/site-about.php:305 elementor/widgets/site-button.php:230
+#: elementor/widgets/site-button.php:277
+#: elementor/widgets/site-contact-form.php:148
+#: elementor/widgets/site-contact-form.php:269
+#: elementor/widgets/site-contact-form.php:419
+#: elementor/widgets/site-contact-form.php:455
+#: elementor/widgets/site-cta.php:340 elementor/widgets/site-cta.php:383
+#: elementor/widgets/site-service.php:210 elementor/widgets/site-team.php:126
+#: elementor/widgets/site-teams.php:148
+#: elementor/widgets/site-tesimonial.php:476
+#: elementor/widgets/site-tesimonial.php:522
+#: elementor/widgets/site-tesimonial.php:564
+msgid "Border"
+msgstr ""
+
+#: elementor/widgets/site-about.php:312 elementor/widgets/site-blog.php:245
+#: elementor/widgets/site-button.php:176
+#: elementor/widgets/site-contact-form.php:155
+#: elementor/widgets/site-contact-form.php:380
+#: elementor/widgets/site-service.php:217
+#: elementor/widgets/site-tesimonial.php:423
+#: elementor/widgets/site-tesimonial.php:571
+#: elementor/widgets/site-video.php:125
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/site-about.php:326
+msgid "Award Title Style"
+msgstr ""
+
+#: elementor/widgets/site-about.php:336 elementor/widgets/site-about.php:378
+#: elementor/widgets/site-about.php:494 elementor/widgets/site-about.php:533
+#: elementor/widgets/site-about.php:572
+#: elementor/widgets/site-accordion.php:130
+#: elementor/widgets/site-accordion.php:190
+#: elementor/widgets/site-address.php:111 elementor/widgets/site-blog.php:227
+#: elementor/widgets/site-blog.php:296 elementor/widgets/site-blog.php:335
+#: elementor/widgets/site-blog.php:404 elementor/widgets/site-causes.php:255
+#: elementor/widgets/site-contactinfo.php:174
+#: elementor/widgets/site-contactinfo.php:213
+#: elementor/widgets/site-feature.php:240
+#: elementor/widgets/site-feature.php:279
+#: elementor/widgets/site-funfact.php:129
+#: elementor/widgets/site-funfact.php:198 elementor/widgets/site-hero.php:257
+#: elementor/widgets/site-hero.php:317 elementor/widgets/site-hero.php:366
+#: elementor/widgets/site-hero.php:407 elementor/widgets/site-hero.php:556
+#: elementor/widgets/site-hero.php:585
+#: elementor/widgets/site-prayer-time.php:157
+#: elementor/widgets/site-prayer-time.php:197
+#: elementor/widgets/site-project-info.php:181
+#: elementor/widgets/site-project-info.php:220
+#: elementor/widgets/site-project.php:189
+#: elementor/widgets/site-project.php:228 elementor/widgets/site-search.php:89
+#: elementor/widgets/site-service-feature.php:152
+#: elementor/widgets/site-service-feature.php:191
+#: elementor/widgets/site-service.php:238
+#: elementor/widgets/site-service.php:296
+#: elementor/widgets/site-service.php:335
+#: elementor/widgets/site-service.php:363 elementor/widgets/site-shop.php:163
+#: elementor/widgets/site-shop.php:202 elementor/widgets/site-slider.php:365
+#: elementor/widgets/site-slider.php:425 elementor/widgets/site-slider.php:474
+#: elementor/widgets/site-slider.php:515 elementor/widgets/site-tabs.php:122
+#: elementor/widgets/site-tabs.php:190
+#: elementor/widgets/site-team-info.php:223
+#: elementor/widgets/site-team-info.php:262
+#: elementor/widgets/site-team.php:153 elementor/widgets/site-teams.php:175
+#: elementor/widgets/site-tesimonial.php:353
+#: elementor/widgets/site-tesimonial.php:593
+#: elementor/widgets/site-tesimonial.php:621
+#: elementor/widgets/site-tesimonial.php:649
+#: elementor/widgets/site-title.php:246
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/site-about.php:344 elementor/widgets/site-about.php:386
+#: elementor/widgets/site-about.php:425 elementor/widgets/site-about.php:463
+#: elementor/widgets/site-about.php:502 elementor/widgets/site-about.php:541
+#: elementor/widgets/site-about.php:580
+#: elementor/widgets/site-accordion.php:138
+#: elementor/widgets/site-accordion.php:198
+#: elementor/widgets/site-address.php:119 elementor/widgets/site-blog.php:235
+#: elementor/widgets/site-blog.php:304 elementor/widgets/site-blog.php:343
+#: elementor/widgets/site-button.php:197 elementor/widgets/site-button.php:245
+#: elementor/widgets/site-causes.php:186 elementor/widgets/site-causes.php:224
+#: elementor/widgets/site-causes.php:263 elementor/widgets/site-causes.php:283
+#: elementor/widgets/site-client.php:181
+#: elementor/widgets/site-contact-form.php:183
+#: elementor/widgets/site-contact-form.php:222
+#: elementor/widgets/site-contact-form.php:398
+#: elementor/widgets/site-contact-form.php:434
+#: elementor/widgets/site-contactinfo.php:182
+#: elementor/widgets/site-contactinfo.php:221
+#: elementor/widgets/site-cta.php:220 elementor/widgets/site-cta.php:259
+#: elementor/widgets/site-cta.php:312 elementor/widgets/site-cta.php:355
+#: elementor/widgets/site-feature.php:173
+#: elementor/widgets/site-feature.php:210
+#: elementor/widgets/site-feature.php:248
+#: elementor/widgets/site-feature.php:287
+#: elementor/widgets/site-footer-navmenu.php:138
+#: elementor/widgets/site-funfact.php:206
+#: elementor/widgets/site-header.php:606 elementor/widgets/site-header.php:637
+#: elementor/widgets/site-header.php:673 elementor/widgets/site-hero.php:265
+#: elementor/widgets/site-hero.php:325 elementor/widgets/site-hero.php:374
+#: elementor/widgets/site-hero.php:421 elementor/widgets/site-hero.php:460
+#: elementor/widgets/site-hero.php:494 elementor/widgets/site-hero.php:525
+#: elementor/widgets/site-hero.php:563 elementor/widgets/site-hero.php:592
+#: elementor/widgets/site-navmenu.php:450
+#: elementor/widgets/site-navmenu.php:481
+#: elementor/widgets/site-prayer-time.php:165
+#: elementor/widgets/site-prayer-time.php:205
+#: elementor/widgets/site-project-info.php:150
+#: elementor/widgets/site-project-info.php:189
+#: elementor/widgets/site-project-info.php:228
+#: elementor/widgets/site-project.php:197
+#: elementor/widgets/site-project.php:236 elementor/widgets/site-search.php:97
+#: elementor/widgets/site-service-feature.php:131
+#: elementor/widgets/site-service-feature.php:160
+#: elementor/widgets/site-service-feature.php:199
+#: elementor/widgets/site-service.php:304
+#: elementor/widgets/site-service.php:343 elementor/widgets/site-shop.php:171
+#: elementor/widgets/site-shop.php:210 elementor/widgets/site-shop.php:231
+#: elementor/widgets/site-slider.php:248 elementor/widgets/site-slider.php:277
+#: elementor/widgets/site-slider.php:304 elementor/widgets/site-slider.php:325
+#: elementor/widgets/site-slider.php:373 elementor/widgets/site-slider.php:433
+#: elementor/widgets/site-slider.php:482 elementor/widgets/site-slider.php:529
+#: elementor/widgets/site-slider.php:568 elementor/widgets/site-tabs.php:130
+#: elementor/widgets/site-tabs.php:198
+#: elementor/widgets/site-team-info.php:192
+#: elementor/widgets/site-team-info.php:231
+#: elementor/widgets/site-team-info.php:270
+#: elementor/widgets/site-team.php:161 elementor/widgets/site-team.php:194
+#: elementor/widgets/site-team.php:200 elementor/widgets/site-team.php:231
+#: elementor/widgets/site-teams.php:183 elementor/widgets/site-teams.php:216
+#: elementor/widgets/site-teams.php:222 elementor/widgets/site-teams.php:253
+#: elementor/widgets/site-tesimonial.php:278
+#: elementor/widgets/site-tesimonial.php:319
+#: elementor/widgets/site-tesimonial.php:361
+#: elementor/widgets/site-tesimonial.php:444
+#: elementor/widgets/site-tesimonial.php:491
+#: elementor/widgets/site-tesimonial.php:657
+#: elementor/widgets/site-title.php:177 elementor/widgets/site-title.php:215
+#: elementor/widgets/site-title.php:254
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/site-about.php:368
+msgid "Award description Style"
+msgstr ""
+
+#: elementor/widgets/site-about.php:411 elementor/widgets/site-cta.php:206
+#: elementor/widgets/site-hero.php:250 elementor/widgets/site-slider.php:358
+#: include/custom-shortcodes/theme-shortcodes.php:585
+msgid "SubTitle"
+msgstr ""
+
+#: elementor/widgets/site-about.php:435 elementor/widgets/site-about.php:473
+#: elementor/widgets/site-accordion.php:168
+#: elementor/widgets/site-address.php:129
+#: elementor/widgets/site-causes.php:196 elementor/widgets/site-causes.php:234
+#: elementor/widgets/site-client.php:191
+#: elementor/widgets/site-contactinfo.php:192
+#: elementor/widgets/site-feature.php:258
+#: elementor/widgets/site-prayer-time.php:175
+#: elementor/widgets/site-prayer-time.php:215
+#: elementor/widgets/site-project-info.php:160
+#: elementor/widgets/site-project-info.php:199
+#: elementor/widgets/site-project-info.php:238
+#: elementor/widgets/site-project.php:207
+#: elementor/widgets/site-project.php:246
+#: elementor/widgets/site-service-feature.php:170
+#: elementor/widgets/site-service-feature.php:209
+#: elementor/widgets/site-service.php:314 elementor/widgets/site-shop.php:181
+#: elementor/widgets/site-team-info.php:202
+#: elementor/widgets/site-team-info.php:241
+#: elementor/widgets/site-team-info.php:280
+#: elementor/widgets/site-team.php:171 elementor/widgets/site-teams.php:193
+#: elementor/widgets/site-tesimonial.php:288
+#: elementor/widgets/site-tesimonial.php:329
+#: elementor/widgets/site-title.php:187 elementor/widgets/site-title.php:225
+msgid "Title Padding"
+msgstr ""
+
+#: elementor/widgets/site-about.php:449
+#: elementor/widgets/site-accordion.php:123
+#: elementor/widgets/site-address.php:104 elementor/widgets/site-blog.php:154
+#: elementor/widgets/site-blog.php:328 elementor/widgets/site-causes.php:150
+#: elementor/widgets/site-causes.php:210 elementor/widgets/site-client.php:167
+#: elementor/widgets/site-contact-form.php:85
+#: elementor/widgets/site-contact-form.php:169
+#: elementor/widgets/site-contactinfo.php:167
+#: elementor/widgets/site-cta.php:245 elementor/widgets/site-feature.php:233
+#: elementor/widgets/site-gallery.php:83 elementor/widgets/site-gallery.php:85
+#: elementor/widgets/site-hero.php:310
+#: elementor/widgets/site-prayer-time.php:150
+#: elementor/widgets/site-project-info.php:174
+#: elementor/widgets/site-project.php:126
+#: elementor/widgets/site-project.php:221
+#: elementor/widgets/site-service-feature.php:145
+#: elementor/widgets/site-service.php:126
+#: elementor/widgets/site-service.php:289 elementor/widgets/site-shop.php:111
+#: elementor/widgets/site-shop.php:156 elementor/widgets/site-slider.php:263
+#: elementor/widgets/site-slider.php:418
+#: elementor/widgets/site-team-info.php:216
+#: elementor/widgets/site-team.php:146 elementor/widgets/site-teams.php:105
+#: elementor/widgets/site-teams.php:168
+#: elementor/widgets/site-tesimonial.php:302
+#: elementor/widgets/site-title.php:27 elementor/widgets/site-title.php:201
+#: include/custom-post-type.php:461
+#: include/custom-shortcodes/theme-shortcodes.php:49
+#: include/custom-shortcodes/theme-shortcodes.php:214
+#: include/custom-shortcodes/theme-shortcodes.php:338
+#: include/custom-shortcodes/theme-shortcodes.php:580
+#: include/custom-shortcodes/theme-shortcodes.php:629
+#: include/custom-shortcodes/theme-shortcodes.php:653
+#: include/custom-shortcodes/theme-shortcodes.php:697
+#: include/widgets/footer-posts.php:120 include/widgets/recent-case.php:120
+#: include/widgets/recent-posts.php:120
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/site-about.php:512 elementor/widgets/site-hero.php:384
+#: elementor/widgets/site-slider.php:492
+msgid "Content Padding"
+msgstr ""
+
+#: elementor/widgets/site-about.php:526
+msgid "Info Title Style"
+msgstr ""
+
+#: elementor/widgets/site-about.php:565
+msgid "Info Sub Title Style"
+msgstr ""
+
+#: elementor/widgets/site-about.php:604 elementor/widgets/site-hero.php:605
+msgid "backdrop color"
+msgstr ""
+
+#: elementor/widgets/site-about.php:614 elementor/widgets/site-hero.php:615
+msgid "backdrop Color 1"
+msgstr ""
+
+#: elementor/widgets/site-about.php:624 elementor/widgets/site-hero.php:625
+msgid "backdrop Color 2"
+msgstr ""
+
+#: elementor/widgets/site-accordion.php:27
+#: elementor/widgets/site-accordion.php:108
+msgid "Accordion "
+msgstr ""
+
+#: elementor/widgets/site-accordion.php:65
+msgid "Accordion  Options"
+msgstr ""
+
+#: elementor/widgets/site-accordion.php:72
+msgid "Active Accordion"
+msgstr ""
+
+#: elementor/widgets/site-accordion.php:74 elementor/widgets/site-blog.php:84
+#: elementor/widgets/site-blog.php:95 elementor/widgets/site-blog.php:106
+#: elementor/widgets/site-blog.php:186 elementor/widgets/site-header.php:243
+#: elementor/widgets/site-header.php:254 elementor/widgets/site-shop.php:142
+#: elementor/widgets/site-tabs.php:67
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/site-accordion.php:75 elementor/widgets/site-blog.php:85
+#: elementor/widgets/site-blog.php:96 elementor/widgets/site-blog.php:107
+#: elementor/widgets/site-blog.php:187 elementor/widgets/site-header.php:244
+#: elementor/widgets/site-header.php:255 elementor/widgets/site-shop.php:143
+#: elementor/widgets/site-tabs.php:68
+msgid "Hide"
+msgstr ""
+
+#: elementor/widgets/site-accordion.php:86
+#: elementor/widgets/site-address.php:67 elementor/widgets/site-address.php:78
+#: elementor/widgets/site-client.php:83 elementor/widgets/site-client.php:94
+#: elementor/widgets/site-contactinfo.php:79 elementor/widgets/site-cta.php:82
+#: elementor/widgets/site-cta.php:104 elementor/widgets/site-feature.php:99
+#: elementor/widgets/site-funfact.php:75 elementor/widgets/site-hero.php:99
+#: elementor/widgets/site-hero.php:109 elementor/widgets/site-hero.php:177
+#: elementor/widgets/site-hero.php:187
+#: elementor/widgets/site-prayer-time.php:82
+#: elementor/widgets/site-prayer-time.php:92
+#: elementor/widgets/site-project-info.php:69
+#: elementor/widgets/site-project-info.php:80
+#: elementor/widgets/site-service-feature.php:87
+#: elementor/widgets/site-slider.php:100 elementor/widgets/site-slider.php:110
+#: elementor/widgets/site-tabs.php:79 elementor/widgets/site-team-info.php:78
+#: elementor/widgets/site-team-info.php:101
+#: elementor/widgets/site-team-info.php:122 elementor/widgets/site-team.php:69
+#: elementor/widgets/site-tesimonial.php:121
+#: elementor/widgets/site-tesimonial.php:178
+#: elementor/widgets/site-title.php:101
+msgid "Type title text here"
+msgstr ""
+
+#: elementor/widgets/site-accordion.php:93
+#: elementor/widgets/site-accordion.php:95
+#: elementor/widgets/site-feature.php:106 elementor/widgets/site-tabs.php:86
+#: elementor/widgets/site-tabs.php:88
+#: elementor/widgets/site-tesimonial.php:128
+#: elementor/widgets/site-tesimonial.php:133
+#: elementor/widgets/site-title.php:108 elementor/widgets/site-title.php:113
+msgid "Content Text"
+msgstr ""
+
+#: elementor/widgets/site-accordion.php:96 elementor/widgets/site-tabs.php:89
+msgid "Type content text here"
+msgstr ""
+
+#: elementor/widgets/site-accordion.php:104
+msgid "Accordion  Items"
+msgstr ""
+
+#: elementor/widgets/site-accordion.php:148
+#: elementor/widgets/site-accordion.php:208
+#: elementor/widgets/site-causes.php:293
+#: elementor/widgets/site-contactinfo.php:122
+#: elementor/widgets/site-project-info.php:123
+#: elementor/widgets/site-team-info.php:165
+msgid "BG Color"
+msgstr ""
+
+#: elementor/widgets/site-accordion.php:158
+#: elementor/widgets/site-accordion.php:218
+#: elementor/widgets/site-contactinfo.php:132
+#: elementor/widgets/site-feature.php:183
+#: elementor/widgets/site-header.php:683 elementor/widgets/site-header.php:724
+#: elementor/widgets/site-hero.php:504 elementor/widgets/site-hero.php:535
+#: elementor/widgets/site-tabs.php:170 elementor/widgets/site-tabs.php:208
+#: elementor/widgets/site-team.php:132 elementor/widgets/site-teams.php:154
+#: include/custom-shortcodes/theme-shortcodes.php:253
+#: include/custom-shortcodes/theme-shortcodes.php:453
+#: include/custom-shortcodes/theme-shortcodes.php:535
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/site-accordion.php:183
+msgid "Accordion Content"
+msgstr ""
+
+#: elementor/widgets/site-address.php:24
+msgid "Address Info"
+msgstr ""
+
+#: elementor/widgets/site-address.php:58
+msgid "Address Options"
+msgstr ""
+
+#: elementor/widgets/site-address.php:64
+#: include/custom-shortcodes/theme-shortcodes.php:157
+msgid "Address Text"
+msgstr ""
+
+#: elementor/widgets/site-address.php:66
+#: include/custom-shortcodes/theme-shortcodes.php:634
+#: include/custom-shortcodes/theme-shortcodes.php:663
+#: include/custom-shortcodes/theme-shortcodes.php:817
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/site-address.php:77
+msgid "Call: +88 659 789 874"
+msgstr ""
+
+#: elementor/widgets/site-address.php:85 elementor/widgets/site-address.php:89
+#: include/custom-shortcodes/theme-shortcodes.php:875
+msgid "Address"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:27
+msgid "Blog"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:69 elementor/widgets/site-causes.php:63
+#: elementor/widgets/site-project.php:70 elementor/widgets/site-service.php:70
+#: elementor/widgets/site-shop.php:69 elementor/widgets/site-teams.php:63
+msgid "No ID's found"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:76
+msgid "Meta's Options"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:93 elementor/widgets/site-blog.php:155
+#: elementor/widgets/site-causes.php:151
+#: elementor/widgets/site-project.php:127
+#: elementor/widgets/site-service.php:127 elementor/widgets/site-shop.php:112
+#: elementor/widgets/site-teams.php:106 include/custom-post-type.php:463
+#: include/widgets/footer-posts.php:123 include/widgets/recent-case.php:123
+#: include/widgets/recent-posts.php:123
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:104 elementor/widgets/site-blog.php:153
+#: elementor/widgets/site-causes.php:149
+#: elementor/widgets/site-project.php:125
+#: elementor/widgets/site-service.php:125 elementor/widgets/site-shop.php:110
+#: elementor/widgets/site-teams.php:104 include/widgets/footer-posts.php:119
+#: include/widgets/recent-case.php:119 include/widgets/recent-posts.php:119
+msgid "Author"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:118 elementor/widgets/site-project.php:77
+#: elementor/widgets/site-service.php:77 elementor/widgets/site-shop.php:75
+msgid "Listing Options"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:124
+msgid "Blog Limit"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:130 elementor/widgets/site-causes.php:126
+#: elementor/widgets/site-project.php:102
+#: elementor/widgets/site-service.php:102 elementor/widgets/site-shop.php:87
+#: elementor/widgets/site-teams.php:81
+msgid "Enter the number of items to show."
+msgstr ""
+
+#: elementor/widgets/site-blog.php:136 elementor/widgets/site-causes.php:132
+#: elementor/widgets/site-project.php:108
+#: elementor/widgets/site-service.php:108 elementor/widgets/site-shop.php:93
+#: elementor/widgets/site-teams.php:87
+msgid "Order"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:139 elementor/widgets/site-causes.php:135
+#: elementor/widgets/site-project.php:111
+#: elementor/widgets/site-service.php:111 elementor/widgets/site-shop.php:96
+#: elementor/widgets/site-teams.php:90
+msgid "Asending"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:140 elementor/widgets/site-causes.php:136
+#: elementor/widgets/site-project.php:112
+#: elementor/widgets/site-service.php:112 elementor/widgets/site-shop.php:97
+#: elementor/widgets/site-teams.php:91
+msgid "Desending"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:148 elementor/widgets/site-causes.php:144
+#: elementor/widgets/site-project.php:120
+#: elementor/widgets/site-service.php:120 elementor/widgets/site-shop.php:105
+#: elementor/widgets/site-teams.php:99
+msgid "Order By"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:151 elementor/widgets/site-causes.php:147
+#: elementor/widgets/site-project.php:123
+#: elementor/widgets/site-service.php:123 elementor/widgets/site-shop.php:108
+#: elementor/widgets/site-teams.php:102 include/widgets/footer-posts.php:117
+#: include/widgets/recent-case.php:117 include/widgets/recent-posts.php:117
+msgid "None"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:152 elementor/widgets/site-causes.php:148
+#: elementor/widgets/site-project.php:124
+#: elementor/widgets/site-service.php:124 elementor/widgets/site-shop.php:109
+#: elementor/widgets/site-teams.php:103 include/widgets/footer-posts.php:118
+#: include/widgets/recent-case.php:118 include/widgets/recent-posts.php:118
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:156 elementor/widgets/site-service.php:128
+#: elementor/widgets/site-teams.php:107
+msgid "Menu Order"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:164 elementor/widgets/site-project.php:135
+#: elementor/widgets/site-service.php:136 elementor/widgets/site-shop.php:120
+#: elementor/widgets/site-teams.php:115
+msgid "Certain Categories?"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:174 elementor/widgets/site-causes.php:159
+#: elementor/widgets/site-project.php:145
+#: elementor/widgets/site-service.php:146 elementor/widgets/site-shop.php:130
+#: elementor/widgets/site-teams.php:125
+msgid "Certain ID's?"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:184 elementor/widgets/site-shop.php:140
+msgid "Pagination"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:195 elementor/widgets/site-service.php:156
+msgid "Excerpt Length"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:200 elementor/widgets/site-service.php:161
+msgid "How many words you want in short content paragraph."
+msgstr ""
+
+#: elementor/widgets/site-blog.php:206 elementor/widgets/site-blog.php:397
+#: elementor/widgets/site-service.php:167
+msgid "Read More"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:210 elementor/widgets/site-service.php:170
+msgid "Type your Read More text here"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:220
+msgid "Tag Style"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:256
+msgid "Tag BG Color All"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:266
+msgid "Tag BG Color 2"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:276
+msgid "Tag BG Color 3"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:289 elementor/widgets/site-causes.php:248
+#: elementor/widgets/site-shop.php:195
+msgid "Meta"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:353
+msgid "Title Hover Color All"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:363
+msgid "Title Hover Color 2"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:373
+msgid "Title Hover Color 3"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:412
+msgid "Color all"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:422
+msgid "Color 2"
+msgstr ""
+
+#: elementor/widgets/site-blog.php:432
+msgid "Color 3"
+msgstr ""
+
+#: elementor/widgets/site-brand-logo.php:24
+#: elementor/widgets/site-brand-logo.php:66
+msgid "Site Logo"
+msgstr ""
+
+#: elementor/widgets/site-brand-logo.php:60
+msgid "Brand Options"
+msgstr ""
+
+#: elementor/widgets/site-button.php:24 elementor/widgets/site-button.php:129
+#: elementor/widgets/site-contact-form.php:337
+#: elementor/widgets/site-cta.php:284 elementor/widgets/site-header.php:666
+#: elementor/widgets/site-hero.php:399 elementor/widgets/site-shop.php:223
+#: elementor/widgets/site-slider.php:507
+#: elementor/widgets/site-tesimonial.php:374
+msgid "Button"
+msgstr ""
+
+#: elementor/widgets/site-button.php:60
+msgid "Button Options"
+msgstr ""
+
+#: elementor/widgets/site-button.php:66
+msgid "Button Style"
+msgstr ""
+
+#: elementor/widgets/site-button.php:70 elementor/widgets/site-client.php:68
+#: elementor/widgets/site-header.php:108
+#: include/custom-shortcodes/theme-shortcodes.php:509
+msgid "Style Two"
+msgstr ""
+
+#: elementor/widgets/site-button.php:73
+msgid "Select your Button style."
+msgstr ""
+
+#: elementor/widgets/site-button.php:79
+msgid "Alignment"
+msgstr ""
+
+#: elementor/widgets/site-button.php:83
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/site-button.php:87
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/site-button.php:91
+msgid "Right"
+msgstr ""
+
+#: elementor/widgets/site-button.php:104 elementor/widgets/site-cta.php:111
+#: elementor/widgets/site-header.php:156
+msgid "Button/Link Text"
+msgstr ""
+
+#: elementor/widgets/site-button.php:106 elementor/widgets/site-cta.php:113
+#: elementor/widgets/site-header.php:158 elementor/widgets/site-hero.php:126
+#: elementor/widgets/site-slider.php:127
+#: elementor/widgets/site-tesimonial.php:142
+msgid "Button Text"
+msgstr ""
+
+#: elementor/widgets/site-button.php:107 elementor/widgets/site-cta.php:114
+#: elementor/widgets/site-header.php:159 elementor/widgets/site-header.php:215
+msgid "Type btn text here"
+msgstr ""
+
+#: elementor/widgets/site-button.php:114 elementor/widgets/site-cta.php:121
+#: elementor/widgets/site-header.php:169 elementor/widgets/site-hero.php:136
+#: elementor/widgets/site-slider.php:137
+#: elementor/widgets/site-tesimonial.php:152
+msgid "Button Link"
+msgstr ""
+
+#: elementor/widgets/site-button.php:144
+#: elementor/widgets/site-contact-form.php:351
+#: elementor/widgets/site-tesimonial.php:391
+#: elementor/widgets/site-title.php:122
+msgid "Width"
+msgstr ""
+
+#: elementor/widgets/site-button.php:191
+#: elementor/widgets/site-contact-form.php:392
+#: elementor/widgets/site-cta.php:306 elementor/widgets/site-header.php:301
+#: elementor/widgets/site-header.php:457 elementor/widgets/site-header.php:599
+#: elementor/widgets/site-hero.php:415 elementor/widgets/site-navmenu.php:157
+#: elementor/widgets/site-navmenu.php:302
+#: elementor/widgets/site-navmenu.php:443
+#: elementor/widgets/site-slider.php:523
+#: elementor/widgets/site-tesimonial.php:438
+msgid "Normal"
+msgstr ""
+
+#: elementor/widgets/site-button.php:208 elementor/widgets/site-button.php:256
+#: elementor/widgets/site-contact-form.php:408
+#: elementor/widgets/site-contact-form.php:444
+#: elementor/widgets/site-cta.php:193 elementor/widgets/site-cta.php:330
+#: elementor/widgets/site-cta.php:373 elementor/widgets/site-feature.php:152
+#: elementor/widgets/site-header.php:308 elementor/widgets/site-header.php:319
+#: elementor/widgets/site-header.php:476 elementor/widgets/site-header.php:510
+#: elementor/widgets/site-header.php:617 elementor/widgets/site-header.php:648
+#: elementor/widgets/site-header.php:693 elementor/widgets/site-hero.php:275
+#: elementor/widgets/site-navmenu.php:164
+#: elementor/widgets/site-navmenu.php:321
+#: elementor/widgets/site-navmenu.php:355
+#: elementor/widgets/site-navmenu.php:461
+#: elementor/widgets/site-navmenu.php:492
+#: elementor/widgets/site-search.php:107 elementor/widgets/site-shop.php:242
+#: elementor/widgets/site-slider.php:383 elementor/widgets/site-tabs.php:140
+#: elementor/widgets/site-team.php:248 elementor/widgets/site-teams.php:270
+#: elementor/widgets/site-tesimonial.php:454
+#: elementor/widgets/site-tesimonial.php:501
+#: include/custom-shortcodes/theme-shortcodes.php:540
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/site-button.php:219 elementor/widgets/site-button.php:266
+#: elementor/widgets/site-tesimonial.php:465
+#: elementor/widgets/site-tesimonial.php:511
+msgid "Link Border Color"
+msgstr ""
+
+#: elementor/widgets/site-button.php:239
+#: elementor/widgets/site-contact-form.php:428
+#: elementor/widgets/site-cta.php:349 elementor/widgets/site-header.php:344
+#: elementor/widgets/site-header.php:491 elementor/widgets/site-header.php:630
+#: elementor/widgets/site-hero.php:454 elementor/widgets/site-navmenu.php:189
+#: elementor/widgets/site-navmenu.php:336
+#: elementor/widgets/site-navmenu.php:474
+#: elementor/widgets/site-slider.php:562
+#: elementor/widgets/site-tesimonial.php:485
+msgid "Hover"
+msgstr ""
+
+#: elementor/widgets/site-causes.php:24
+msgid "Causes"
+msgstr ""
+
+#: elementor/widgets/site-causes.php:70
+msgid "Causes Options"
+msgstr ""
+
+#: elementor/widgets/site-causes.php:76
+msgid "Causes Style"
+msgstr ""
+
+#: elementor/widgets/site-causes.php:81 elementor/widgets/site-header.php:109
+#: elementor/widgets/site-prayer-time.php:69
+msgid "Style Three"
+msgstr ""
+
+#: elementor/widgets/site-causes.php:84
+msgid "Select your causes style."
+msgstr ""
+
+#: elementor/widgets/site-causes.php:90
+msgid "Shape Image"
+msgstr ""
+
+#: elementor/widgets/site-causes.php:105
+msgid "Shape Image 2"
+msgstr ""
+
+#: elementor/widgets/site-causes.php:120
+msgid "Causes Limit"
+msgstr ""
+
+#: elementor/widgets/site-causes.php:172
+#: elementor/widgets/site-prayer-time.php:190
+#: elementor/widgets/site-project-info.php:136
+#: elementor/widgets/site-project.php:182
+#: elementor/widgets/site-team-info.php:178
+#: elementor/widgets/site-tesimonial.php:261
+#: elementor/widgets/site-title.php:163
+#: include/custom-shortcodes/theme-shortcodes.php:44
+#: include/custom-shortcodes/theme-shortcodes.php:624
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/widgets/site-causes.php:276
+msgid "Prograss"
+msgstr ""
+
+#: elementor/widgets/site-causes.php:421
+msgid "Donate Now"
+msgstr ""
+
+#: elementor/widgets/site-causes.php:471
+msgid "Raised:"
+msgstr ""
+
+#: elementor/widgets/site-causes.php:478
+msgid "Goal:"
+msgstr ""
+
+#: elementor/widgets/site-client.php:24 elementor/widgets/site-client.php:131
+msgid "Client"
+msgstr ""
+
+#: elementor/widgets/site-client.php:58
+msgid "Client Options"
+msgstr ""
+
+#: elementor/widgets/site-client.php:64
+msgid "Client Style"
+msgstr ""
+
+#: elementor/widgets/site-client.php:71
+msgid "Select your Client style."
+msgstr ""
+
+#: elementor/widgets/site-client.php:101 elementor/widgets/site-header.php:144
+msgid "Logo Image"
+msgstr ""
+
+#: elementor/widgets/site-client.php:114
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/widgets/site-client.php:127
+msgid "Client Logos"
+msgstr ""
+
+#: elementor/widgets/site-client.php:146 elementor/widgets/site-cta.php:179
+#: elementor/widgets/site-cta.php:187 elementor/widgets/site-cta.php:324
+#: elementor/widgets/site-feature.php:196
+#: elementor/widgets/site-feature.php:219 elementor/widgets/site-hero.php:216
+#: elementor/widgets/site-hero.php:236 elementor/widgets/site-hero.php:431
+#: elementor/widgets/site-prayer-time.php:125
+#: elementor/widgets/site-slider.php:539 elementor/widgets/site-team.php:242
+#: elementor/widgets/site-teams.php:264 elementor/widgets/site-video.php:104
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:27
+msgid "Contact Form"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:66
+msgid "Form Options"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:72
+msgid "Contact Style"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:79
+msgid "Select your Contact style."
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:88
+msgid "Default title"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:89
+msgid "Type your title here"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:98
+msgid "Default content"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:105
+msgid "Select contact form"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:116
+msgid "Consultancey Box Style"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:245
+msgid "Form"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:287
+msgid "Placeholder Text Color"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:306
+msgid "Label Color"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:316
+#: elementor/widgets/site-contactinfo.php:261
+#: elementor/widgets/site-header.php:330 elementor/widgets/site-header.php:351
+#: elementor/widgets/site-header.php:381 elementor/widgets/site-header.php:464
+#: elementor/widgets/site-header.php:498 elementor/widgets/site-header.php:532
+#: elementor/widgets/site-navmenu.php:175
+#: elementor/widgets/site-navmenu.php:196
+#: elementor/widgets/site-navmenu.php:226
+#: elementor/widgets/site-navmenu.php:309
+#: elementor/widgets/site-navmenu.php:343
+#: elementor/widgets/site-navmenu.php:377
+#: include/custom-shortcodes/theme-shortcodes.php:447
+msgid "Text Color"
+msgstr ""
+
+#: elementor/widgets/site-contact-form.php:369
+#: elementor/widgets/site-slider.php:215
+msgid "Margin"
+msgstr ""
+
+#: elementor/widgets/site-contactinfo.php:24
+#: include/custom-shortcodes/theme-shortcodes.php:705
+msgid "Contact Info"
+msgstr ""
+
+#: elementor/widgets/site-contactinfo.php:58
+msgid "Contactinfo Options"
+msgstr ""
+
+#: elementor/widgets/site-contactinfo.php:78
+msgid "24/7 customer support."
+msgstr ""
+
+#: elementor/widgets/site-contactinfo.php:96
+msgid "Contactinfo Icons"
+msgstr ""
+
+#: elementor/widgets/site-contactinfo.php:100
+msgid "Contactinfo"
+msgstr ""
+
+#: elementor/widgets/site-contactinfo.php:114
+msgid "Info Box"
+msgstr ""
+
+#: elementor/widgets/site-contactinfo.php:146
+msgid "Icon BG"
+msgstr ""
+
+#: elementor/widgets/site-contactinfo.php:153
+#: elementor/widgets/site-gallery.php:138
+#: elementor/widgets/site-header.php:734
+#: include/custom-shortcodes/theme-shortcodes.php:107
+#: include/custom-shortcodes/theme-shortcodes.php:152
+#: include/custom-shortcodes/theme-shortcodes.php:226
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/site-contactinfo.php:234
+#: elementor/widgets/site-header.php:374 elementor/widgets/site-header.php:525
+#: elementor/widgets/site-navmenu.php:219
+#: elementor/widgets/site-navmenu.php:370
+msgid "Active"
+msgstr ""
+
+#: elementor/widgets/site-contactinfo.php:241
+msgid "Active Background"
+msgstr ""
+
+#: elementor/widgets/site-contactinfo.php:251
+msgid "Active Border"
+msgstr ""
+
+#: elementor/widgets/site-cta.php:24
+msgid "CTA"
+msgstr ""
+
+#: elementor/widgets/site-cta.php:60
+msgid "CTA Options"
+msgstr ""
+
+#: elementor/widgets/site-cta.php:66
+msgid "CTA Style"
+msgstr ""
+
+#: elementor/widgets/site-cta.php:89
+msgid "Subtitle Image"
+msgstr ""
+
+#: elementor/widgets/site-cta.php:133
+msgid "CTA Image"
+msgstr ""
+
+#: elementor/widgets/site-cta.php:145
+msgid "Left Image"
+msgstr ""
+
+#: elementor/widgets/site-cta.php:160
+msgid "Right Image"
+msgstr ""
+
+#: elementor/widgets/site-cta.php:367
+msgid "Hover Background"
+msgstr ""
+
+#: elementor/widgets/site-feature.php:27
+#: elementor/widgets/site-feature.php:126
+#: elementor/widgets/site-feature.php:130
+#: elementor/widgets/site-project-info.php:102
+#: elementor/widgets/site-service-feature.php:109
+msgid "Feature"
+msgstr ""
+
+#: elementor/widgets/site-feature.php:65
+msgid "Feature Options"
+msgstr ""
+
+#: elementor/widgets/site-feature.php:71
+msgid "Feature Style"
+msgstr ""
+
+#: elementor/widgets/site-feature.php:78 elementor/widgets/site-hero.php:78
+msgid "Select your hero style."
+msgstr ""
+
+#: elementor/widgets/site-feature.php:98
+msgid "Make Donation"
+msgstr ""
+
+#: elementor/widgets/site-feature.php:108
+msgid ""
+"Donate now to help those in need! Make a difference by taking action with "
+"your donation."
+msgstr ""
+
+#: elementor/widgets/site-feature.php:109
+#: elementor/widgets/site-tesimonial.php:134
+#: elementor/widgets/site-title.php:114
+msgid "Type Content text here"
+msgstr ""
+
+#: elementor/widgets/site-feature.php:116
+msgid "link"
+msgstr ""
+
+#: elementor/widgets/site-feature.php:117
+#: elementor/widgets/site-slider.php:162 elementor/widgets/site-video.php:85
+msgid "#"
+msgstr ""
+
+#: elementor/widgets/site-feature.php:118
+msgid "Type your link here"
+msgstr ""
+
+#: elementor/widgets/site-feature.php:144 elementor/widgets/site-hero.php:209
+msgid "Body Style"
+msgstr ""
+
+#: elementor/widgets/site-feature.php:166
+msgid "Icon Style"
+msgstr ""
+
+#: elementor/widgets/site-footer-navmenu.php:26
+msgid "Footer Menu"
+msgstr ""
+
+#: elementor/widgets/site-footer-navmenu.php:87
+msgid "FooterNavmenu Options"
+msgstr ""
+
+#: elementor/widgets/site-footer-navmenu.php:103
+#: elementor/widgets/site-header.php:127
+#: elementor/widgets/site-navmenu.php:103
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: elementor/widgets/site-footer-navmenu.php:111
+#: elementor/widgets/site-header.php:135
+#: elementor/widgets/site-navmenu.php:111
+msgid "There are no menus in your site."
+msgstr ""
+
+#: elementor/widgets/site-footer-navmenu.php:111
+#: elementor/widgets/site-header.php:135
+#: elementor/widgets/site-navmenu.php:111
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: elementor/widgets/site-footer-navmenu.php:123
+#: elementor/widgets/site-header.php:267
+#: elementor/widgets/site-navmenu.php:123
+msgid "Main Menu"
+msgstr ""
+
+#: elementor/widgets/site-footer-navmenu.php:148
+msgid "Hover Color"
+msgstr ""
+
+#: elementor/widgets/site-footer-navmenu.php:158
+msgid "Dot Color"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:27
+#: elementor/widgets/site-funfact.php:106
+msgid "Funfact"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:65
+msgid "Funfact Options"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:82
+msgid "Funfact Number"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:84
+msgid "250"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:85
+msgid "Type funfact Number here"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:92
+msgid "Funfact Plus/Percentage"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:94
+msgid "+"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:95
+msgid "Type funfact Plus/Percentage here"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:102
+msgid "Funfact Items"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:122
+#: elementor/widgets/site-service.php:231
+#: include/custom-shortcodes/theme-shortcodes.php:590
+msgid "Number"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:137
+msgid "Number Color All"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:147
+msgid "Number 2 Color"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:157
+msgid "Number 3 Color"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:167
+msgid "Number 4 Color"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:191
+msgid "Funfact Title"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:216
+msgid "Number Padding"
+msgstr ""
+
+#: elementor/widgets/site-funfact.php:263
+msgid "00"
+msgstr ""
+
+#: elementor/widgets/site-gallery.php:65
+msgid "Gallery Options"
+msgstr ""
+
+#: elementor/widgets/site-gallery.php:72
+msgid "Gallery Image"
+msgstr ""
+
+#: elementor/widgets/site-gallery.php:86
+msgid "Type Title here"
+msgstr ""
+
+#: elementor/widgets/site-gallery.php:93
+msgid "Gallery Items"
+msgstr ""
+
+#: elementor/widgets/site-gallery.php:111
+msgid "Overly"
+msgstr ""
+
+#: elementor/widgets/site-gallery.php:118
+msgid "Overly Color"
+msgstr ""
+
+#: elementor/widgets/site-header.php:29 include/custom-post-type.php:256
+msgid "Header"
+msgstr ""
+
+#: elementor/widgets/site-header.php:98
+msgid "Header Options"
+msgstr ""
+
+#: elementor/widgets/site-header.php:104 elementor/widgets/site-slider.php:193
+#: elementor/widgets/site-slider.php:318
+msgid "Navigation"
+msgstr ""
+
+#: elementor/widgets/site-header.php:112
+msgid "Select your navigation style."
+msgstr ""
+
+#: elementor/widgets/site-header.php:184
+msgid "Phone Icon"
+msgstr ""
+
+#: elementor/widgets/site-header.php:199 elementor/widgets/site-header.php:201
+msgid "Phone Button Top Text"
+msgstr ""
+
+#: elementor/widgets/site-header.php:202
+msgid "Type btn Top text here"
+msgstr ""
+
+#: elementor/widgets/site-header.php:212
+msgid "Phone Button/Link Text"
+msgstr ""
+
+#: elementor/widgets/site-header.php:214
+msgid "Phone Button Text"
+msgstr ""
+
+#: elementor/widgets/site-header.php:225
+msgid "Phone Button Link"
+msgstr ""
+
+#: elementor/widgets/site-header.php:252
+msgid "Cart"
+msgstr ""
+
+#: elementor/widgets/site-header.php:283
+#: elementor/widgets/site-navmenu.php:139
+msgid "Main Menu Height"
+msgstr ""
+
+#: elementor/widgets/site-header.php:362
+#: elementor/widgets/site-navmenu.php:207
+#: elementor/widgets/site-slider.php:345
+msgid "Line Color"
+msgstr ""
+
+#: elementor/widgets/site-header.php:405 elementor/widgets/site-header.php:549
+#: elementor/widgets/site-navmenu.php:250
+#: elementor/widgets/site-navmenu.php:394
+msgid "Horizontal Padding"
+msgstr ""
+
+#: elementor/widgets/site-header.php:421 elementor/widgets/site-header.php:562
+#: elementor/widgets/site-navmenu.php:266
+#: elementor/widgets/site-navmenu.php:407
+msgid "Vertical Padding"
+msgstr ""
+
+#: elementor/widgets/site-header.php:438
+#: elementor/widgets/site-navmenu.php:283
+msgid "Dropdown"
+msgstr ""
+
+#: elementor/widgets/site-header.php:446
+#: elementor/widgets/site-navmenu.php:291
+msgid ""
+"On desktop, this will affect the submenu. On mobile, this will affect the "
+"entire menu."
+msgstr ""
+
+#: elementor/widgets/site-header.php:578
+#: elementor/widgets/site-navmenu.php:423
+msgid "Divider"
+msgstr ""
+
+#: elementor/widgets/site-header.php:589
+#: elementor/widgets/site-navmenu.php:433
+msgid "Toggle Button"
+msgstr ""
+
+#: elementor/widgets/site-header.php:717
+msgid "Search & Cart"
+msgstr ""
+
+#: elementor/widgets/site-header.php:830
+#: elementor/widgets/site-navmenu.php:547
+msgid "Toggle navigation"
+msgstr ""
+
+#: elementor/widgets/site-header.php:862 elementor/widgets/site-search.php:153
+msgid "Search here"
+msgstr ""
+
+#: elementor/widgets/site-header.php:928
+msgid "Remove this item"
+msgstr ""
+
+#: elementor/widgets/site-header.php:943
+msgid "Your basket is empty!."
+msgstr ""
+
+#: elementor/widgets/site-header.php:948
+msgid "Start Shopping"
+msgstr ""
+
+#: elementor/widgets/site-header.php:959
+msgid "Subtotal: "
+msgstr ""
+
+#: elementor/widgets/site-header.php:964
+msgid " Checkout"
+msgstr ""
+
+#: elementor/widgets/site-header.php:967
+msgid "View Cart"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:27
+msgid "Hero"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:65
+msgid "Hero Options"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:71
+msgid "Hero Style"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:84 elementor/widgets/site-slider.php:85
+msgid "Topbar Icon"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:96 elementor/widgets/site-slider.php:97
+msgid "Top Title"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:98 elementor/widgets/site-slider.php:99
+msgid "Create Your Dream Project With Us"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:108 elementor/widgets/site-slider.php:109
+msgid "Best It Solution For Your Business"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:127 elementor/widgets/site-slider.php:128
+#: elementor/widgets/site-tesimonial.php:143
+msgid "button text"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:128 elementor/widgets/site-slider.php:129
+#: elementor/widgets/site-tesimonial.php:144
+msgid "Type button Text here"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:148
+#: elementor/widgets/site-team-info.php:108
+msgid "Add Images"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:157
+msgid "Client Images"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:168
+msgid "Experience Options"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:174 elementor/widgets/site-hero.php:577
+msgid "Experience Text"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:176
+msgid "Years Of Experience"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:184
+msgid "Experience number"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:186
+msgid "25+"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:194
+msgid "Experience Icon"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:229
+msgid "Man Back Shape Style"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:285 elementor/widgets/site-slider.php:393
+msgid "Icon Background"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:335 elementor/widgets/site-slider.php:443
+msgid "Highlight  Color"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:470 elementor/widgets/site-slider.php:578
+msgid "Background Hover"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:487 elementor/widgets/site-hero.php:518
+msgid "Experience"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:548
+msgid "Experience Number"
+msgstr ""
+
+#: elementor/widgets/site-hero.php:635
+msgid "backdrop Color 3"
+msgstr ""
+
+#: elementor/widgets/site-navmenu.php:26
+msgid "Nav Menu"
+msgstr ""
+
+#: elementor/widgets/site-navmenu.php:87
+msgid "Navmenu Options"
+msgstr ""
+
+#: elementor/widgets/site-prayer-time.php:24
+msgid "Prayer Time"
+msgstr ""
+
+#: elementor/widgets/site-prayer-time.php:58
+msgid "Prayer Options"
+msgstr ""
+
+#: elementor/widgets/site-prayer-time.php:64
+msgid "Prayer Style"
+msgstr ""
+
+#: elementor/widgets/site-prayer-time.php:72
+msgid "Select your Prayer style."
+msgstr ""
+
+#: elementor/widgets/site-prayer-time.php:81
+msgid "Fajar"
+msgstr ""
+
+#: elementor/widgets/site-prayer-time.php:89
+msgid "SubTitle Text"
+msgstr ""
+
+#: elementor/widgets/site-prayer-time.php:91
+msgid "5:10 am"
+msgstr ""
+
+#: elementor/widgets/site-prayer-time.php:99
+#: elementor/widgets/site-prayer-time.php:103
+msgid "Prayer"
+msgstr ""
+
+#: elementor/widgets/site-prayer-time.php:118
+msgid "Body"
+msgstr ""
+
+#: elementor/widgets/site-project-info.php:24
+msgid "Project Info"
+msgstr ""
+
+#: elementor/widgets/site-project-info.php:60
+msgid "ProjectItem Options"
+msgstr ""
+
+#: elementor/widgets/site-project-info.php:98
+#: elementor/widgets/site-service-feature.php:105
+msgid "Feature Icons"
+msgstr ""
+
+#: elementor/widgets/site-project.php:27
+msgid "Project"
+msgstr ""
+
+#: elementor/widgets/site-project.php:83
+msgid "project Style"
+msgstr ""
+
+#: elementor/widgets/site-project.php:90
+msgid "Select your project style."
+msgstr ""
+
+#: elementor/widgets/site-project.php:96
+msgid "project Limit"
+msgstr ""
+
+#: elementor/widgets/site-project.php:155
+msgid "button bg"
+msgstr ""
+
+#: elementor/widgets/site-search.php:60
+msgid "Search Options"
+msgstr ""
+
+#: elementor/widgets/site-service-feature.php:27
+msgid "Service Feature"
+msgstr ""
+
+#: elementor/widgets/site-service-feature.php:66
+msgid "ServiceItem Options"
+msgstr ""
+
+#: elementor/widgets/site-service.php:27
+#: elementor/widgets/site-service.php:181
+msgid "Service"
+msgstr ""
+
+#: elementor/widgets/site-service.php:83
+msgid "Service Style"
+msgstr ""
+
+#: elementor/widgets/site-service.php:90
+msgid "Select your service style."
+msgstr ""
+
+#: elementor/widgets/site-service.php:96
+msgid "Service Limit"
+msgstr ""
+
+#: elementor/widgets/site-service.php:246
+msgid "Number Bg All"
+msgstr ""
+
+#: elementor/widgets/site-service.php:256
+msgid "Number 2 Bg"
+msgstr ""
+
+#: elementor/widgets/site-service.php:266
+msgid "Number 3 Bg"
+msgstr ""
+
+#: elementor/widgets/site-service.php:276
+msgid "Number 4 Bg"
+msgstr ""
+
+#: elementor/widgets/site-service.php:356
+#: elementor/widgets/site-service.php:430
+msgid "Learn More"
+msgstr ""
+
+#: elementor/widgets/site-service.php:371
+msgid "Learn more color All"
+msgstr ""
+
+#: elementor/widgets/site-service.php:381
+msgid "Learn more 2 color"
+msgstr ""
+
+#: elementor/widgets/site-service.php:391
+msgid "Learn more 3 color"
+msgstr ""
+
+#: elementor/widgets/site-service.php:401
+msgid "Learn more 4 color"
+msgstr ""
+
+#: elementor/widgets/site-shop.php:24
+msgid "Product"
+msgstr ""
+
+#: elementor/widgets/site-shop.php:81
+msgid "Product Limit"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:27
+msgid "Slider"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:67
+msgid "Slider Options"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:74
+msgid "Shape Color"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:149
+msgid "Slider Image"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:160 elementor/widgets/site-video.php:83
+msgid "Video Link"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:163 elementor/widgets/site-video.php:86
+msgid "Type video link here"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:170
+msgid "Slider Items"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:174
+msgid "Item #1"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:187
+msgid "Slider Extra Options"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:195
+#: include/custom-shortcodes/theme-shortcodes.php:60
+#: include/custom-shortcodes/theme-shortcodes.php:118
+#: include/custom-shortcodes/theme-shortcodes.php:286
+#: include/custom-shortcodes/theme-shortcodes.php:332
+#: include/custom-shortcodes/theme-shortcodes.php:429
+#: include/custom-shortcodes/theme-shortcodes.php:789
+#: include/widgets/footer-posts.php:78 include/widgets/nav-widget.php:63
+#: include/widgets/recent-case.php:78 include/widgets/recent-posts.php:78
+msgid "Yes"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:196
+#: include/custom-shortcodes/theme-shortcodes.php:61
+#: include/custom-shortcodes/theme-shortcodes.php:119
+#: include/custom-shortcodes/theme-shortcodes.php:287
+#: include/custom-shortcodes/theme-shortcodes.php:333
+#: include/custom-shortcodes/theme-shortcodes.php:430
+#: include/custom-shortcodes/theme-shortcodes.php:790
+#: include/widgets/footer-posts.php:79 include/widgets/nav-widget.php:64
+#: include/widgets/recent-case.php:79 include/widgets/recent-posts.php:79
+msgid "No"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:198
+msgid "If you want Carousel Navigation, enable it."
+msgstr ""
+
+#: elementor/widgets/site-slider.php:208
+msgid "Slide"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:226
+msgid "height"
+msgstr ""
+
+#: elementor/widgets/site-slider.php:335 elementor/widgets/site-tabs.php:150
+msgid "Active Color"
+msgstr ""
+
+#: elementor/widgets/site-tabs.php:24 elementor/widgets/site-tabs.php:101
+msgid "Tabs "
+msgstr ""
+
+#: elementor/widgets/site-tabs.php:58
+msgid "Tabs  Options"
+msgstr ""
+
+#: elementor/widgets/site-tabs.php:65
+msgid "Active Tabs"
+msgstr ""
+
+#: elementor/widgets/site-tabs.php:97
+msgid "Tabs  Items"
+msgstr ""
+
+#: elementor/widgets/site-tabs.php:115
+msgid "Tabs Title"
+msgstr ""
+
+#: elementor/widgets/site-tabs.php:160
+msgid "Active Background Color"
+msgstr ""
+
+#: elementor/widgets/site-tabs.php:183
+msgid "Tabs Content"
+msgstr ""
+
+#: elementor/widgets/site-team-info.php:30
+#: elementor/widgets/site-team-info.php:140
+#: elementor/widgets/site-team-info.php:144
+msgid "Team Info"
+msgstr ""
+
+#: elementor/widgets/site-team-info.php:69
+msgid "Team Info Options"
+msgstr ""
+
+#: elementor/widgets/site-team-info.php:85 elementor/widgets/site-team.php:86
+msgid "Team Image"
+msgstr ""
+
+#: elementor/widgets/site-team.php:24 elementor/widgets/site-team.php:102
+msgid "Team"
+msgstr ""
+
+#: elementor/widgets/site-team.php:58 elementor/widgets/site-teams.php:69
+msgid "Team Options"
+msgstr ""
+
+#: elementor/widgets/site-team.php:79
+msgid "Type sub title text here"
+msgstr ""
+
+#: elementor/widgets/site-team.php:98
+msgid "Team Items"
+msgstr ""
+
+#: elementor/widgets/site-team.php:186 elementor/widgets/site-teams.php:208
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/site-team.php:209 elementor/widgets/site-teams.php:231
+msgid "Subtitle Padding"
+msgstr ""
+
+#: elementor/widgets/site-teams.php:24
+msgid "Team Single"
+msgstr ""
+
+#: elementor/widgets/site-teams.php:75
+msgid "Team Limit"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:27
+#: elementor/widgets/site-tesimonial.php:247
+#: include/custom-shortcodes/theme-shortcodes.php:609
+msgid "Testimonial"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:64
+#: elementor/widgets/site-tesimonial.php:167
+msgid "Testimonial Options"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:70
+msgid "Testimonial Style"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:77
+msgid "Select your Testimonial style."
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:86
+msgid "Left Text Options"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:92
+#: elementor/widgets/site-title.php:72
+msgid "Title Style"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:111
+#: elementor/widgets/site-title.php:91
+msgid "Type subtitle text here"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:175
+msgid "Testimonial Title Text"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:185
+#: elementor/widgets/site-tesimonial.php:187
+msgid "Testimonial Sub Title"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:188
+msgid "Type testimonial Sub title here"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:195
+#: elementor/widgets/site-tesimonial.php:197
+#: elementor/widgets/site-tesimonial.php:642
+msgid "Testimonial Content"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:198
+msgid "Type testimonial Content here"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:205
+msgid "Testimonial Image"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:216
+msgid "Rating Style"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:219
+msgid "Rating One Star"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:220
+msgid "Rating two Star"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:221
+msgid "Rating three Star"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:222
+msgid "Rating four Star"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:223
+msgid "Rating five Star"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:232
+msgid "Quot Image"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:243
+msgid "Testimonial Items"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:535
+msgid "Testimonial Box Style"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:586
+msgid "Testimonial Name"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:601
+#: elementor/widgets/site-tesimonial.php:629
+msgid "Name Color"
+msgstr ""
+
+#: elementor/widgets/site-tesimonial.php:614
+msgid "Testimonial Title"
+msgstr ""
+
+#: elementor/widgets/site-title.php:66
+msgid "Title Options"
+msgstr ""
+
+#: elementor/widgets/site-title.php:140
+#: include/custom-shortcodes/theme-shortcodes.php:188
+msgid "Height"
+msgstr ""
+
+#: elementor/widgets/site-video.php:27
+msgid "Video"
+msgstr ""
+
+#: elementor/widgets/site-video.php:65
+msgid "Video Options"
+msgstr ""
+
+#: elementor/widgets/site-video.php:72
+msgid "Video Image"
+msgstr ""
+
+#: elementor/widgets/site-video.php:97
+msgid "Video Button"
+msgstr ""
+
+#: elementor/widgets/site-video.php:114
+msgid "button Color"
+msgstr ""
+
+#: elementor/widgets/site-video.php:140
+msgid "Shape Style"
+msgstr ""
+
+#: elementor/widgets/site-video.php:147
+msgid "Shape1 Bg"
+msgstr ""
+
+#: elementor/widgets/site-video.php:157
+msgid "Shape2 Bg"
+msgstr ""
+
+#: elementor/widgets/site-video.php:167
+msgid "Shape3 Bg"
+msgstr ""
+
+#: elementor/widgets/site-video.php:177
+msgid "Shape4 Bg"
+msgstr ""
+
+#: include/custom-post-type.php:24 include/custom-post-type.php:144
+#: include/custom-post-type.php:331
+#, php-format
+msgid "%s Post"
+msgstr ""
+
+#: include/custom-post-type.php:25 include/custom-post-type.php:145
+#: include/custom-post-type.php:332
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: include/custom-post-type.php:26 include/custom-post-type.php:146
+#: include/custom-post-type.php:258 include/custom-post-type.php:290
+#: include/custom-post-type.php:333
+#: include/custom-shortcodes/theme-shortcodes.php:24
+#: include/custom-shortcodes/theme-shortcodes.php:204
+#: include/custom-shortcodes/theme-shortcodes.php:301
+#: include/custom-shortcodes/theme-shortcodes.php:352
+#: include/custom-shortcodes/theme-shortcodes.php:686
+#: include/custom-shortcodes/theme-shortcodes.php:718
+#: include/custom-shortcodes/theme-shortcodes.php:763
+#: include/custom-shortcodes/theme-shortcodes.php:802
+#: include/custom-shortcodes/theme-shortcodes.php:842
+#: include/custom-shortcodes/theme-shortcodes.php:878
+msgid "Add New"
+msgstr ""
+
+#: include/custom-post-type.php:27 include/custom-post-type.php:147
+#: include/custom-post-type.php:334
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: include/custom-post-type.php:28 include/custom-post-type.php:148
+#: include/custom-post-type.php:260 include/custom-post-type.php:292
+#: include/custom-post-type.php:335
+msgid "Edit"
+msgstr ""
+
+#: include/custom-post-type.php:29 include/custom-post-type.php:149
+#: include/custom-post-type.php:336
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: include/custom-post-type.php:30 include/custom-post-type.php:150
+#: include/custom-post-type.php:337
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: include/custom-post-type.php:31 include/custom-post-type.php:151
+#: include/custom-post-type.php:338
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: include/custom-post-type.php:32 include/custom-post-type.php:152
+#: include/custom-post-type.php:339
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: include/custom-post-type.php:33 include/custom-post-type.php:153
+#: include/custom-post-type.php:265 include/custom-post-type.php:297
+#: include/custom-post-type.php:340
+msgid "Nothing found in the Database."
+msgstr ""
+
+#: include/custom-post-type.php:34 include/custom-post-type.php:154
+#: include/custom-post-type.php:266 include/custom-post-type.php:298
+#: include/custom-post-type.php:341
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: include/custom-post-type.php:80 include/custom-post-type.php:200
+#: include/custom-post-type.php:386
+#, php-format
+msgid "%s Categories"
+msgstr ""
+
+#: include/custom-post-type.php:81 include/custom-post-type.php:201
+#: include/custom-post-type.php:387
+#, php-format
+msgid "%s Category"
+msgstr ""
+
+#: include/custom-post-type.php:82 include/custom-post-type.php:202
+#: include/custom-post-type.php:388
+#, php-format
+msgid "Search %s Categories"
+msgstr ""
+
+#: include/custom-post-type.php:83 include/custom-post-type.php:203
+#: include/custom-post-type.php:389
+#, php-format
+msgid "All %s Categories"
+msgstr ""
+
+#: include/custom-post-type.php:84 include/custom-post-type.php:204
+#: include/custom-post-type.php:390
+#, php-format
+msgid "Parent %s Category"
+msgstr ""
+
+#: include/custom-post-type.php:85 include/custom-post-type.php:205
+#: include/custom-post-type.php:391
+#, php-format
+msgid "Parent %s Category:"
+msgstr ""
+
+#: include/custom-post-type.php:86 include/custom-post-type.php:206
+#: include/custom-post-type.php:392
+#, php-format
+msgid "Edit %s Category"
+msgstr ""
+
+#: include/custom-post-type.php:87 include/custom-post-type.php:207
+#: include/custom-post-type.php:393
+#, php-format
+msgid "Update %s Category"
+msgstr ""
+
+#: include/custom-post-type.php:88 include/custom-post-type.php:208
+#: include/custom-post-type.php:394
+#, php-format
+msgid "Add New %s Category"
+msgstr ""
+
+#: include/custom-post-type.php:89 include/custom-post-type.php:209
+#: include/custom-post-type.php:395
+#, php-format
+msgid "New %s Category Name"
+msgstr ""
+
+#: include/custom-post-type.php:113 include/custom-post-type.php:114
+#: include/custom-post-type.php:233 include/custom-post-type.php:234
+#: include/custom-post-type.php:419 include/custom-post-type.php:420
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: include/custom-post-type.php:115 include/custom-post-type.php:235
+#: include/custom-post-type.php:421
+#, php-format
+msgid "Search %s "
+msgstr ""
+
+#: include/custom-post-type.php:116 include/custom-post-type.php:236
+#: include/custom-post-type.php:422
+#, php-format
+msgid "All %s "
+msgstr ""
+
+#: include/custom-post-type.php:117 include/custom-post-type.php:237
+#: include/custom-post-type.php:423
+#, php-format
+msgid "Parent %s "
+msgstr ""
+
+#: include/custom-post-type.php:118 include/custom-post-type.php:238
+#: include/custom-post-type.php:424
+#, php-format
+msgid "Parent %s :.$heading"
+msgstr ""
+
+#: include/custom-post-type.php:119 include/custom-post-type.php:239
+#: include/custom-post-type.php:425
+#, php-format
+msgid "Edit %s "
+msgstr ""
+
+#: include/custom-post-type.php:120 include/custom-post-type.php:240
+#: include/custom-post-type.php:426
+#, php-format
+msgid "Update %s "
+msgstr ""
+
+#: include/custom-post-type.php:121 include/custom-post-type.php:241
+#: include/custom-post-type.php:427
+#, php-format
+msgid "Add New %s "
+msgstr ""
+
+#: include/custom-post-type.php:122 include/custom-post-type.php:242
+#: include/custom-post-type.php:428
+#, php-format
+msgid "New %s "
+msgstr ""
+
+#: include/custom-post-type.php:255
+msgid "Header Builder"
+msgstr ""
+
+#: include/custom-post-type.php:257
+msgid "All Header"
+msgstr ""
+
+#: include/custom-post-type.php:259
+msgid "Add New Header"
+msgstr ""
+
+#: include/custom-post-type.php:261
+msgid "Edit Header"
+msgstr ""
+
+#: include/custom-post-type.php:262
+msgid "New Header"
+msgstr ""
+
+#: include/custom-post-type.php:263
+msgid "View Header"
+msgstr ""
+
+#: include/custom-post-type.php:264
+msgid "Search Header"
+msgstr ""
+
+#: include/custom-post-type.php:287
+msgid "Footer Builder"
+msgstr ""
+
+#: include/custom-post-type.php:288
+msgid "Footer"
+msgstr ""
+
+#: include/custom-post-type.php:289
+msgid "All Footer"
+msgstr ""
+
+#: include/custom-post-type.php:291
+msgid "Add New Footer"
+msgstr ""
+
+#: include/custom-post-type.php:293
+msgid "Edit Footer"
+msgstr ""
+
+#: include/custom-post-type.php:294
+msgid "New Footer"
+msgstr ""
+
+#: include/custom-post-type.php:295
+msgid "View Footer"
+msgstr ""
+
+#: include/custom-post-type.php:296
+msgid "Search Footer"
+msgstr ""
+
+#: include/theme-functions.php:112
+msgid "Share On"
+msgstr ""
+
+#: include/theme-functions.php:115
+msgid "Share:"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:15
+msgid "Topbar Shortcodes"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:21
+msgid "Topbar info"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:30
+#: include/custom-shortcodes/theme-shortcodes.php:89
+#: include/custom-shortcodes/theme-shortcodes.php:139
+#: include/custom-shortcodes/theme-shortcodes.php:209
+#: include/custom-shortcodes/theme-shortcodes.php:317
+#: include/custom-shortcodes/theme-shortcodes.php:358
+#: include/custom-shortcodes/theme-shortcodes.php:435
+#: include/custom-shortcodes/theme-shortcodes.php:520
+#: include/custom-shortcodes/theme-shortcodes.php:570
+#: include/custom-shortcodes/theme-shortcodes.php:614
+#: include/custom-shortcodes/theme-shortcodes.php:648
+#: include/custom-shortcodes/theme-shortcodes.php:692
+#: include/custom-shortcodes/theme-shortcodes.php:724
+#: include/custom-shortcodes/theme-shortcodes.php:769
+#: include/custom-shortcodes/theme-shortcodes.php:807
+#: include/custom-shortcodes/theme-shortcodes.php:848
+#: include/custom-shortcodes/theme-shortcodes.php:884
+msgid "Custom Class"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:59
+#: include/custom-shortcodes/theme-shortcodes.php:117
+#: include/custom-shortcodes/theme-shortcodes.php:285
+#: include/custom-shortcodes/theme-shortcodes.php:331
+#: include/custom-shortcodes/theme-shortcodes.php:428
+#: include/custom-shortcodes/theme-shortcodes.php:788
+msgid "Open New Tab?"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:74
+msgid "Header Shortcodes"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:80
+msgid "Header Social"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:83
+msgid "Add New Social"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:94
+msgid "Custom Title"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:102
+#: include/custom-shortcodes/theme-shortcodes.php:147
+#: include/custom-shortcodes/theme-shortcodes.php:280
+#: include/custom-shortcodes/theme-shortcodes.php:825
+msgid "Social Icon"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:112
+#: include/custom-shortcodes/theme-shortcodes.php:830
+msgid "Social Link"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:130
+msgid "Header Middle Info"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:133
+msgid "Add New Info"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:162
+msgid "Address Details"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:176
+msgid "Content Shortcodes"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:182
+msgid "Spacer"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:201
+msgid "Social Icons"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:221
+msgid "Colors"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:232
+msgid "Icon Hover Color"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:239
+msgid "Backrgound Color"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:246
+msgid "Backrgound Hover Color"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:262
+msgid "Icon Size"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:298
+msgid "Useful Links"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:307
+msgid "Column Width"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:309
+msgid "One Column"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:310
+msgid "Two Column"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:311
+msgid "Three Column"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:349
+msgid "Simple Image List"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:381
+msgid "Open link to new tab?"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:392
+msgid "Simple Link"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:398
+msgid "Link Style"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:400
+msgid "Link Underline"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:401
+msgid "Link Arrow (Right)"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:402
+msgid "Link Arrow (Left)"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:415
+msgid "Link Text"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:442
+msgid "Normal Mode"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:461
+msgid "Hover Mode"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:466
+msgid "Text Hover Color"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:472
+msgid "Border Hover Color"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:481
+msgid "Font Sizes"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:486
+#: include/custom-shortcodes/theme-shortcodes.php:515
+msgid "Text Size"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:499
+msgid "Blockquote"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:505
+msgid "Blockquote Style"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:507
+msgid "Select Blockquote Style"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:525
+msgid "Content Color"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:530
+msgid "Left Border Color"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:559
+msgid "Widget Shortcodes"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:565
+msgid "Service CTA"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:575
+#: include/custom-shortcodes/theme-shortcodes.php:619
+msgid "Image background"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:595
+#: include/custom-shortcodes/theme-shortcodes.php:668
+msgid "Link text"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:643
+msgid "About Widget Block"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:658
+msgid "About Block Image"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:683
+msgid "Service Feature Widget"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:715
+msgid "Download Widget"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:732
+msgid "Download Icon"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:737
+msgid "Download Title"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:742
+msgid "Download Link"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:754
+msgid "Footer Shortcodes"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:760
+msgid "Footer Menu Links"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:778
+msgid "Menu Title"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:783
+msgid "Menu Link"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:799
+msgid "footer logo and Text"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:812
+msgid "Footer logo"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:839
+msgid "Contact info"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:853
+#: include/custom-shortcodes/theme-shortcodes.php:866
+msgid "Contact info title"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:861
+msgid "Contact info icon"
+msgstr ""
+
+#: include/custom-shortcodes/theme-shortcodes.php:892
+msgid "Address item"
+msgstr ""
+
+#: include/demo/importer.php:94 include/demo/importer.php:95
+msgid "Install Demo"
+msgstr ""
+
+#: include/widgets/footer-posts.php:15
+msgid ": Footer Posts"
+msgstr ""
+
+#: include/widgets/footer-posts.php:18
+msgid " widget that displays footer posts."
+msgstr ""
+
+#: include/widgets/footer-posts.php:29
+msgid "Footer Posts"
+msgstr ""
+
+#: include/widgets/footer-posts.php:44 include/widgets/nav-widget.php:41
+#: include/widgets/recent-case.php:44 include/widgets/recent-posts.php:44
+#: include/widgets/text-widget.php:39
+msgid "Title :"
+msgstr ""
+
+#: include/widgets/footer-posts.php:56 include/widgets/recent-case.php:56
+#: include/widgets/recent-posts.php:56
+msgid "Select Post Type"
+msgstr ""
+
+#: include/widgets/footer-posts.php:57 include/widgets/recent-case.php:57
+#: include/widgets/recent-posts.php:57
+msgid "Post Type :"
+msgstr ""
+
+#: include/widgets/footer-posts.php:67 include/widgets/recent-case.php:67
+#: include/widgets/recent-posts.php:67
+msgid "Limit :"
+msgstr ""
+
+#: include/widgets/footer-posts.php:68 include/widgets/recent-case.php:68
+#: include/widgets/recent-posts.php:68
+msgid "How many posts want to show?"
+msgstr ""
+
+#: include/widgets/footer-posts.php:80 include/widgets/recent-case.php:80
+#: include/widgets/recent-posts.php:80
+msgid "Display Date :"
+msgstr ""
+
+#: include/widgets/footer-posts.php:90 include/widgets/recent-case.php:90
+#: include/widgets/recent-posts.php:90
+msgid "Category :"
+msgstr ""
+
+#: include/widgets/footer-posts.php:91 include/widgets/recent-case.php:91
+#: include/widgets/recent-posts.php:91
+msgid "Enter category slugs with comma(,) for multiple items"
+msgstr ""
+
+#: include/widgets/footer-posts.php:105 include/widgets/recent-case.php:105
+#: include/widgets/recent-posts.php:105
+msgid "Select Order"
+msgstr ""
+
+#: include/widgets/footer-posts.php:106 include/widgets/recent-case.php:106
+#: include/widgets/recent-posts.php:106
+msgid "Order :"
+msgstr ""
+
+#: include/widgets/footer-posts.php:121 include/widgets/recent-case.php:121
+#: include/widgets/recent-posts.php:121
+msgid "Name"
+msgstr ""
+
+#: include/widgets/footer-posts.php:122 include/widgets/recent-case.php:122
+#: include/widgets/recent-posts.php:122
+msgid "Type"
+msgstr ""
+
+#: include/widgets/footer-posts.php:124 include/widgets/recent-case.php:124
+#: include/widgets/recent-posts.php:124
+msgid "Modified"
+msgstr ""
+
+#: include/widgets/footer-posts.php:125 include/widgets/recent-case.php:125
+#: include/widgets/recent-posts.php:125
+msgid "Random"
+msgstr ""
+
+#: include/widgets/footer-posts.php:127 include/widgets/recent-case.php:127
+#: include/widgets/recent-posts.php:127
+msgid "Select OrderBy"
+msgstr ""
+
+#: include/widgets/footer-posts.php:128 include/widgets/recent-case.php:128
+#: include/widgets/recent-posts.php:128
+msgid "OrderBy :"
+msgstr ""
+
+#: include/widgets/nav-widget.php:16
+msgid ": Navigation"
+msgstr ""
+
+#: include/widgets/nav-widget.php:19
+msgid " widget that displays navigations list."
+msgstr ""
+
+#: include/widgets/nav-widget.php:53
+msgid "Select Menu List :"
+msgstr ""
+
+#: include/widgets/nav-widget.php:65
+msgid "Display Menu Children :"
+msgstr ""
+
+#: include/widgets/nav-widget.php:66
+msgid "This only shows first level of child menus."
+msgstr ""
+
+#: include/widgets/recent-case.php:15
+msgid ": Causes Posts"
+msgstr ""
+
+#: include/widgets/recent-case.php:18
+msgid " widget that displays causes posts."
+msgstr ""
+
+#: include/widgets/recent-case.php:29
+msgid "Causes Posts"
+msgstr ""
+
+#: include/widgets/recent-posts.php:15
+msgid ": Recent Posts"
+msgstr ""
+
+#: include/widgets/recent-posts.php:18
+msgid " widget that displays recent posts."
+msgstr ""
+
+#: include/widgets/recent-posts.php:29
+msgid "Recent Posts"
+msgstr ""
+
+#: include/widgets/text-widget.php:15
+msgid ": Text Widget"
+msgstr ""
+
+#: include/widgets/text-widget.php:18
+msgid " widget that displays contents."
+msgstr ""
+
+#: include/widgets/text-widget.php:55
+msgid "Content :"
+msgstr ""
+
+#: include/widgets/widget-extra-fields.php:21
+msgid "Add Title Icon :"
+msgstr ""
+
+#: include/widgets/widget-extra-fields.php:25
+msgid "Custom Class:"
+msgstr ""
+
+#: include/widgets/widget-extra-fields.php:27
+msgid "Add your custom classes."
+msgstr ""

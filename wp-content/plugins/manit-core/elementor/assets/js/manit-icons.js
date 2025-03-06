@@ -1,0 +1,29 @@
+{
+    "icons" : [
+        "loupe",
+        "shopping-cart",
+        "shopping-cart-1",
+        "shopping-bag",
+        "shopping-cart-2",
+        "placeholder",
+        "email",
+        "play-button",
+        "user",
+        "quotation",
+        "quotation-1",
+        "house",
+        "phone-call",
+        "badge",
+        "vegan",
+        "diary",
+        "support",
+        "family",
+        "broken-arm",
+        "wounded",
+        "handcuffs",
+        "graduation-cap",
+        "book",
+        "auction",
+        "balance"
+    ]
+}
